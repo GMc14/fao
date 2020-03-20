@@ -19,7 +19,6 @@ Animal,Crab
 Animal,Crocodile
 Animal,Deer
 Animal,Dog
-Animal,Dog
 Animal,Dolphin
 Animal,Dragonfly
 Animal,Elephant
@@ -65,7 +64,6 @@ Animal,Snail
 Animal,Spider
 Animal,Squid
 Animal,Squirrel
-Animal,Stag Beetle
 Animal,Starfish
 Animal,Stegosaur
 Animal,Swan
@@ -87,8 +85,6 @@ Event,Funeral
 Event,Graduation
 Event,Halloween
 Event,Hanukkah
-Event,Sleepover
-Event,St. Patrick�s Day
 Event,Thanksgiving
 Event,Wedding
 Food/Drink,Artichoke
@@ -423,4 +419,3 @@ Vehicle,Train
 Vehicle,Truck
 Vehicle,UFO
 Vehicle,Unicycle
-Vehicle,Wheelbarrow
