@@ -2,10 +2,10 @@ import Layer from './layer';
 import RelativePoint from '../../common/relative-point';
 
 /* Canvas scaling */
-const HEIGHT_RATIO = 8 / 6;
-const MAX_CANVAS_W = 650;
+const HEIGHT_RATIO = 9 / 16;
+const MAX_CANVAS_W = 900;
 const MAX_CANVAS_H = MAX_CANVAS_W * HEIGHT_RATIO;
-const BASE_STROKE_WIDTH = 10;
+const BASE_STROKE_WIDTH = 8;
 const CANVAS_MARGIN_HOR = 20;
 const CANVAS_MARGIN_VER = 96;
 
