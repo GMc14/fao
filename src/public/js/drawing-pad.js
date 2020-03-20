@@ -5,7 +5,7 @@ import RelativePoint from '../../common/relative-point';
 const HEIGHT_RATIO = 9 / 21;
 const MAX_CANVAS_W = 1200;
 const MAX_CANVAS_H = MAX_CANVAS_W * HEIGHT_RATIO;
-const BASE_STROKE_WIDTH = 8;
+const BASE_STROKE_WIDTH = 5;
 const CANVAS_MARGIN_HOR = 20;
 const CANVAS_MARGIN_VER = 96;
 
