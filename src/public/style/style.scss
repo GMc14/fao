@@ -277,7 +277,9 @@ canvas#new-paint {
 	stroke-linejoin: round;
 	fill: none;
 }
-
+#about-content{
+	display:none;
+}
 @import "colors";
 @import "input";
 @import "dropup";
